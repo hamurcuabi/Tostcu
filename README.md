@@ -105,22 +105,12 @@ Tostcu.warning(yourContext, R.string.warning_message);
 This blink animation can be set <b>false</b> but it is <b>true</b> default.
 
 ## Screenshots
-<table>
-	<td><img src="https://user-images.githubusercontent.com/23655824/49865962-6f4fbe00-fe17-11e8-9e42-afa81a3b4253.png" height="250"></td>
-	<td><img src="https://user-images.githubusercontent.com/23655824/49865963-6f4fbe00-fe17-11e8-8fe4-cef67d09deba.png" width="250"></td>
-<td><img src="https://user-images.githubusercontent.com/23655824/49865964-6fe85480-fe17-11e8-8c4f-d5ca6efb2d22.png" width="250"></td>
-<td><img src="https://user-images.githubusercontent.com/23655824/49865967-6fe85480-fe17-11e8-9241-1cf901488958.png" width="250"></td>
-<td><img src="https://user-images.githubusercontent.com/23655824/49865969-6fe85480-fe17-11e8-9a44-622d4e1c7f57.png" width="250"></td>
 
-
-</table>
-
-
-
-
-
-
-
+<img src="https://user-images.githubusercontent.com/23655824/49865962-6f4fbe00-fe17-11e8-9e42-afa81a3b4253.png" width="250"/>
+<img src="https://user-images.githubusercontent.com/23655824/49865963-6f4fbe00-fe17-11e8-8fe4-cef67d09deba.png" width="250"/>
+<img src="https://user-images.githubusercontent.com/23655824/49865964-6fe85480-fe17-11e8-8c4f-d5ca6efb2d22.png" width="250"/>
+<img src="https://user-images.githubusercontent.com/23655824/49865967-6fe85480-fe17-11e8-9241-1cf901488958.png" width="250"/>
+<img src="https://user-images.githubusercontent.com/23655824/49865969-6fe85480-fe17-11e8-9a44-622d4e1c7f57.png" width="250"/>
 
 
 Apps using Tostcu
