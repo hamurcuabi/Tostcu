@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Tostcu</string>
+    <string name="toastcu_message">Tostcu Message</string>
 </resources>
