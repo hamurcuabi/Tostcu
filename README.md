@@ -106,7 +106,13 @@ This blink animation can be set <b>false</b> but it is <b>true</b> default.
 
 ## Screenshots
 
-**Please click the image below to enlarge.**
+
+<img src="https://downloader.disk.yandex.ru/preview/d0e007cb7f5bf7f8ac42aa557c07cfd7657bad561bff56522dca006f92f50a6f/5c112215/Sn-_hX-GM0j6GZJgKYIfoVs3MJ95Rs6osfHdJl3co2FOZ_PsZ2j1BvaMjz5UyVOm_bHVFZxU3zc2Ioav2C-aEw%3D%3D?uid=0&filename=5.JPG&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&tknv=v2&size=2048x2048" style="max-width:100%;"/>
+<img src="https://downloader.disk.yandex.ru/preview/2e92f6997dc079037b62edb4d0bbcfcfcbf018284a330d5da50e17ab1a31ac5a/5c112260/dnd0AOowkYzxu2LiACJjgVs3MJ95Rs6osfHdJl3co2FctKEry-iYIUpEGTP_fMr7owVfuas8qZuShpYmcqCPDQ%3D%3D?uid=0&filename=4.JPG&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&tknv=v2&size=XXXL&crop=0" style="max-width:100%;"/>
+<img src="https://downloader.disk.yandex.ru/preview/76767e9fc2fa2408c0089adad4c6ac495cbe313d74d4ebd3f8b51210a8b5454d/5c1122b6/7iuKXmPG8hjAOPu3OxD4-OVQ3uoHcYykeR39cLsUbcNvtUr4ypeDRNrWO_sVT3o6C_2jTvFjZNy3C9-VAPNj7A%3D%3D?uid=0&filename=3.JPG&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&tknv=v2&size=XXXL&crop=0" style="max-width:100%;"/>
+<img src="https://downloader.disk.yandex.ru/preview/a11c0144beb870d763d5295bef0b6bae6fd68feb0ed55af907ee526a86b49762/5c1122d6/dKxCqMMhivanSzHzKplhEuVQ3uoHcYykeR39cLsUbcPgHhzBeObrUZi9GjJaw0PExOB2qzWgCbCFa5uQOMSUlQ%3D%3D?uid=0&filename=1.JPG&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&tknv=v2&size=XXXL&crop=0" style="max-width:100%;"/>
+<img src="https://downloader.disk.yandex.ru/preview/f8aa06774dfad545b0189d4096a8abf945eee0d721675242efd27ebb74263e4f/5c1122ec/ohyhuJdaiSvJ8ig0RgmEL-VQ3uoHcYykeR39cLsUbcM6yVZOhshEEyPidufAtKJ3jCt4EHcevMZ0KCL_lKwczA%3D%3D?uid=0&filename=2.JPG&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&tknv=v2&size=XXXL&crop=0" style="max-width:100%;"/>
+
 
 
 
