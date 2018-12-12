@@ -22,6 +22,7 @@ public class TostcuUtil {
     public static int WARNING_COLOR = Color.parseColor("#FFA900");
     public static Typeface currentTypeface = LOADED_TOAST_TYPEFACE;
     public static int textSize = 16; // in SP
+    public static boolean with_anim=true;
     private static String TAG = "TostcuUtil";
 
 

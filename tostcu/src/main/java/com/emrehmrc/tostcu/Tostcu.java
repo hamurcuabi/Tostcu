@@ -248,6 +248,32 @@ public class Tostcu {
 
     }
 
+    public static void custom(@NonNull Context context,
+                              @NonNull CharSequence message,
+                              @DrawableRes int res_id,
+                              int delay_ms,
+                              @ColorInt int bg_color,
+                              int gravity,
+                              boolean with_anim,
+                              Typeface typeface,
+                              int text_size) {
+        normal(context, message, res_id, delay_ms, bg_color, gravity, with_anim, typeface, text_size);
+
+    }
+    public static void custom(@NonNull Context context,
+                              @StringRes int message,
+                              @DrawableRes int res_id,
+                              int delay_ms,
+                              @ColorInt int bg_color,
+                              int gravity,
+                              boolean with_anim,
+                              Typeface typeface,
+                              int text_size) {
+        normal(context, context.getString(message), res_id, delay_ms, bg_color, gravity, with_anim,
+                typeface,
+                text_size);
+
+    }
     /**
      * @param context
      * @param message
@@ -287,9 +313,7 @@ public class Tostcu {
             animation = AnimationUtils.loadAnimation(context, R.anim.sample);
             currentToast.show();
             tostcu_icon.startAnimation(animation);
-        }
-        else  currentToast.show();
-
+        } else currentToast.show();
 
 
     }
@@ -308,6 +332,7 @@ public class Tostcu {
 
         private Typeface typeface = TostcuUtil.currentTypeface;
         private int textSize = TostcuUtil.textSize;
+        private boolean with_anim = TostcuUtil.with_anim;
 
         private Config() {
             // avoiding instantiation
@@ -325,11 +350,17 @@ public class Tostcu {
             TostcuUtil.WARNING_COLOR = Color.parseColor("#FFA900");
             TostcuUtil.currentTypeface = LOADED_TOAST_TYPEFACE;
             TostcuUtil.textSize = 16;
+            TostcuUtil.with_anim = true;
 
         }
 
         public Config setTextColor(@ColorInt int textColor) {
             DEFAULT_TEXT_COLOR = textColor;
+            return this;
+        }
+
+        public Config setWithAnim(boolean with_anim) {
+            this.with_anim = with_anim;
             return this;
         }
 
