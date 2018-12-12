@@ -283,7 +283,7 @@ public class Tostcu {
      * @param gravity
      * @param with_anim
      */
-    public static void normal(@NonNull Context context,
+    private static void normal(@NonNull Context context,
                               @NonNull CharSequence message,
                               @DrawableRes int res_id,
                               int delay_ms,
