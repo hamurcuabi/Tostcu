@@ -102,7 +102,7 @@ Tostcu.warning(yourContext, R.string.warning_message);
 
 ## Icon has a simple blink animation
 
-This blink animation can be set false but it is true default.
+This blink animation can be set <b>false</b> but it is <b>true</b> default.
 
 ## Screenshots
 
