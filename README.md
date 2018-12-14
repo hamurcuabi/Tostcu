@@ -40,7 +40,6 @@ Toasty.Config.getInstance()
     .setInfoColor(@ColorInt int infoColor) // optional
     .setSuccessColor(@ColorInt int successColor) // optional
     .setWarningColor(@ColorInt int warningColor) // optional
-    .setTextColor(@ColorInt int textColor) // optional
     .setToastTypeface(@NonNull Typeface typeface) // optional
     .setTextSize(int sizeInSp) // optional
     .setWithAnim(boolean with_anim)//optional
