@@ -118,4 +118,4 @@ Apps using Tostcu
 <a href="https://play.google.com/store/apps/details?id=com.emrehmrc.musicapp">Muziczak Free Mp3</a>
 
 	
-      
+      [![](https://jitpack.io/v/hamurcuabi/Tostcu.svg)](https://jitpack.io/#hamurcuabi/Tostcu)
